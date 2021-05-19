@@ -1,0 +1,14 @@
+{
+  "name": "Chinese Copywriting Linter",
+  "id": "969605084843030535",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "relaunchButtons": [
+    {
+      "command": "open",
+      "name": "Run Chinese Copywriting Linter",
+      "multipleSelection": true
+    }
+  ]
+}
